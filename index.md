@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Welcome to the nhsx.io theme
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
