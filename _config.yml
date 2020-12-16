@@ -1,5 +1,4 @@
 title: nhsx.io theme
-logo: null
 description: nhsx.io is a theme for GitHub Pages.
 show_downloads: true
-theme: null
+remote_theme: nhsx/nhsx-io-theme
