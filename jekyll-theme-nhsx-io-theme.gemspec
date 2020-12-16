@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.name          = 'nhsx-io-theme'
   s.version       = '0.0.1'
-  s.license       = 'MIT'
+  s.license       = 'CC0 1.0 Universal'
   s.authors       = ['Craig Shenton', 'Steve Smith', 'GitHub, Inc.']
   s.email         = ['craig.shenton@nhsx.nhs.uk']
   s.homepage      = 'https://github.com/nhsx/nhsx-io-theme'
