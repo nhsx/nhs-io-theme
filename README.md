@@ -1,6 +1,6 @@
 # The nhsx.io theme
 
-*nhsx.io is a Jekyll theme for GitHub Pages.
+**nhsx.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhsx-io-theme/) to see what it looks like
 
 ## Usage
 
