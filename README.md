@@ -1,6 +1,6 @@
 # The nhsx.io theme
 
-**nhsx.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhsx-io-theme/) to see what it looks like
+**nhsx.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhs-io-theme/) to see what it looks like
 
 ## Usage
 
@@ -9,7 +9,7 @@ To use the nhsx.io theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: nhsx/nhsx-io-theme
+    remote_theme: nhsx/nhs-io-theme
     ```
 
 ## Customizing
@@ -47,7 +47,7 @@ If you'd like to add your own custom styles:
 
 If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/nhsx/nhsx-io-theme/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+1. [Copy the original template](https://github.com/nhsx/nhs-io-theme/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
