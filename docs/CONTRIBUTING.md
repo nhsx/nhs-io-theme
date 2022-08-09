@@ -1,4 +1,4 @@
-# Contributing to the nhsx.io theme
+# Contributing to the nhs.io theme
 
 All types of contributions are encouraged and valued. If you like the project, but don’t have time to contribute, there are other ways to support the project:
 
