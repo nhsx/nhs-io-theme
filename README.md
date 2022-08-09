@@ -1,6 +1,6 @@
-# The nhsx.io theme
+# The nhs.io theme
 
-**nhsx.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhs-io-theme/) to see what it looks like
+**nhs.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhs-io-theme/) to see what it looks like
 
 ## Usage
 
@@ -54,4 +54,4 @@ If you'd like to change the theme's HTML layout:
 
 ## Contributing
 
-Interested in contributing to nhsx.io? See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Interested in contributing to nhs.io? See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
