@@ -1,6 +1,6 @@
 ## Where to get help
 
-If you think you've found a bug in the nhsx.io theme, please [check the existing issues](https://github.com/nhsx/nhsx-io-theme/issues), and if no one has reported the problem, [open a new issue](https://github.com/nhsx/nhsx-io-theme/issues/new).
+If you think you've found a bug in the nhs.io theme, please [check the existing issues](https://github.com/nhsx/nhs-io-theme/issues), and if no one has reported the problem, [open a new issue](https://github.com/nhsx/nhs-io-theme/issues/new).
 
 If you have a general question about the theme, how to implement it, or how to customize it for your site you have two options:
 
