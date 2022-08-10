@@ -2,3 +2,6 @@ title: nhs.io theme
 description: nhs.io is a theme for GitHub Pages.
 show_downloads: true
 remote_theme: nhsx/nhs-io-theme
+plugins:
+  - jekyll-seo-tag
+
